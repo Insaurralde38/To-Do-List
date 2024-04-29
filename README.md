@@ -57,7 +57,7 @@ Abriendo el archivo **`index.html`** con las extensiones [Live Server](vscode:ex
 
 <br />
 
-La aplicación está construida utilizando HTML, CSS y JavaScript, y cuenta con:
+La aplicación está construida con HTML, CSS y JavaScript, y cuenta con:
 
 **📝 Gestión de Tareas**
 
