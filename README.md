@@ -39,7 +39,7 @@ Una aplicación web simple de lista de tareas donde los usuarios pueden agregar 
 
 La aplicación está construida con HTML, CSS y JavaScript, y cuenta con:
 
-**📝 Gestión de Tareas**
+**📍 Gestión de Tareas**
 
 - Agregar tareas a la lista de tareas pendientes.
 - Marcar tareas como completadas.
