@@ -10,7 +10,7 @@
 
 <div align="center">
 
-## **📌 Tecnologías Utilizadas**
+## **📌 TECNOLOGÍAS UTILIZADAS**
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-E46625?style=flat-square&logo=html5&logoColor=white)
@@ -23,39 +23,19 @@
 
 <div align="center">
 
-## **📋 Descripción**
+## **📋 DESCRIPCIÓN**
 
 </div>
-
-<br />
 
 Una aplicación web simple de lista de tareas donde los usuarios pueden agregar tareas a su lista y marcarlas como completadas. Esta aplicación proporciona una forma fácil de gestionar las tareas diarias y mantenerse organizado.
 
-<br />
-
 ---
 
 <div align="center">
 
-## **⚠️ Importante**
+## **📁 DETALLES**
 
 </div>
-
-<br />
-
-Abriendo el archivo **`index.html`** con las extensiones [Live Server](vscode:extension/ritwickdey.LiveServer) o [Live Preview](vscode:extension/ms-vscode.live-server), podrás ejecutar el proyecto en tiempo real.
-
-<br />
-
----
-
-<div align="center">
-
-## **📁 Detalles**
-
-</div>
-
-<br />
 
 La aplicación está construida con HTML, CSS y JavaScript, y cuenta con:
 
@@ -65,11 +45,26 @@ La aplicación está construida con HTML, CSS y JavaScript, y cuenta con:
 - Marcar tareas como completadas.
 - Eliminar tareas de la lista.
 
-<br />
-
 ---
 
-<br />
+<div align="center">
+
+## **⚙️ INSTRUCCIONES DE USO**
+
+</div>
+
+Sigue estos pasos para ejecutar el proyecto de manera local:
+
+1. **Clonar el repositorio**:
+   ```bash
+   git clone https://github.com/Insaurralde38/To-Do-List.git
+   cd To-Do-List
+   ```
+
+2. **Ejecutar el proyecto**:
+   Usa una extensión como [Live Server](vscode:extension/ritwickdey.LiveServer) o [Live Preview](vscode:extension/ms-vscode.live-server) en Visual Studio Code para ejecutar el archivo `index.html`. Alternativamente, puedes usar cualquier servidor web local.
+
+---
 
 <div align="end">
 
