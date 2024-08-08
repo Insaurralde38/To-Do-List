@@ -1,5 +1,5 @@
 (() => {
-    let toDoListArray = [];  
+    let toDoListArray = [];
     const form = document.querySelector(".form");
     const input = document.querySelector(".form__input");
     const ul = document.querySelector(".toDoList");
